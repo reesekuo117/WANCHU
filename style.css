@@ -1,6 +1,6 @@
 *{
     font-size: 1.2rem;
-    outline: 1px solid orange;
+    /* outline: 1px solid orange; */
 }
 html {
     scroll-behavior: smooth;
@@ -438,8 +438,8 @@ header {
     /* overflow: hidden; */
     /* transition: 1s; */
     box-shadow: 0 6px 6px  rgba(0,0,0,0.2);
-    border: 3px solid #537895;
-    position:absolute;
+    /* border: 3px solid #537895; */
+    /* position:absolute; */
     /* bottom: 5px; */
     
 }
